@@ -1,0 +1,2 @@
+Esse foi um projeto desenvolvido no Curso de FlexBox da Alura, juntamente com o instrutor Yuri Padilha. 
+Aqui comecei a praticar a utilização do FlexBox. Posicionando elementos na tela, e usando a responsividade com Flexbox também!
